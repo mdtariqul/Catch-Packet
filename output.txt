@@ -1,0 +1,675 @@
+[H[2J[3J
+
+
+Packet No    :1
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  19334             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  28243             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.250    |
+|Source Port            :  32739             |
+|Destination Port       :  443               |
+1st Node added successfully!
+
+
+
+Packet No    :2
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  54244             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  26589             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58388             |
+Node added successfully!
+
+
+
+Packet No    :3
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  54245             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  26588             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58388             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :4
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  18227             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29345             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58388             |
+|Destination Port       :  5513              |
+Node added successfully!
+
+
+
+Packet No    :5
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  18228             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29326             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58388             |
+|Destination Port       :  5513              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :6
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  18229             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29325             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58388             |
+|Destination Port       :  5513              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :7
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  54246             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  26605             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58388             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :8
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  44                |
+|ID                     :  21679             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  25892             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  32743             |
+|Destination Port       :  5500              |
+Node added successfully!
+
+
+
+Packet No    :9
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  21680             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  25895             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  32746             |
+|Destination Port       :  5516              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :10
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  21681             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  25876             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  32746             |
+|Destination Port       :  5516              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :11
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  46                |
+|ID                     :  21682             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  25887             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  32746             |
+|Destination Port       :  5516              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :12
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  21683             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  25874             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  32746             |
+|Destination Port       :  5516              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :13
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:04:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  21684             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  25891             |
+|Source IP              :  192.168.100.171   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  32743             |
+|Destination Port       :  5500              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :14
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:01:86 |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  57                |
+|ID                     :  5227              |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  17                |
+|Checksum               :  29575             |
+|Source IP              :  192.168.100.177   |
+|Destination IP         :  172.217.160.142   |
+|Source Port            :  63867             |
+|Destination Port       :  443               |
+Node added successfully!
+
+
+
+Packet No    :15
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  54                |
+|ID                     :  33844             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  46993             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58399             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :16
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  54                |
+|ID                     :  33845             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  46992             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58399             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :17
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  18230             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29342             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58399             |
+|Destination Port       :  5513              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :18
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  18231             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29323             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58399             |
+|Destination Port       :  5513              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :19
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  58                |
+|ID                     :  18232             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29322             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58399             |
+|Destination Port       :  5513              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :20
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  33846             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  47005             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58399             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :21
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  33847             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  47004             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5513              |
+|Destination Port       :  58399             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :22
+|DMAC                   :  01:00:5e:7f:ff:fa |
+|SMAC                   :  ec:d6:8a:c4:db:4e |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  198               |
+|ID                     :  31613             |
+|Flags                  :  0                 |
+|TTL (Time to Live)     :  1                 |
+|Protocol               :  17                |
+|Checksum               :  10353             |
+|Source IP              :  192.168.100.150   |
+|Destination IP         :  239.255.255.250   |
+|Source Port            :  60680             |
+|Destination Port       :  1900              |
+Node added successfully!
+
+
+
+Packet No    :23
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:01:86 |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  57                |
+|ID                     :  64216             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  17                |
+|Checksum               :  35324             |
+|Source IP              :  192.168.100.177   |
+|Destination IP         :  142.250.193.138   |
+|Source Port            :  51200             |
+|Destination Port       :  443               |
+Node added successfully!
+
+
+
+Packet No    :24
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:01:86 |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  41                |
+|ID                     :  13116             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  34454             |
+|Source IP              :  192.168.100.177   |
+|Destination IP         :  192.168.90.250    |
+|Source Port            :  62110             |
+|Destination Port       :  443               |
+Node added successfully!
+
+
+
+Packet No    :25
+|DMAC                   :  00:0b:00:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:01:86 |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  41                |
+|ID                     :  13116             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  34454             |
+|Source IP              :  192.168.100.177   |
+|Destination IP         :  192.168.90.250    |
+|Source Port            :  62110             |
+|Destination Port       :  443               |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :26
+|DMAC                   :  00:40:33:3d:40:00 |
+|SMAC                   :  80:06:86:7e:c0:a8 |
+|IP TYPE                :  Not Ipv4          |
+
+
+
+Packet No    :27
+|DMAC                   :  00:36:6b:02:1e:dc |
+|SMAC                   :  84:56:44:06:bc:24 |
+|IP TYPE                :  Not Ipv4          |
+
+
+
+Packet No    :28
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  44                |
+|ID                     :  18233             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29335             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58389             |
+|Destination Port       :  5500              |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :29
+|DMAC                   :  ec:d6:8a:c4:db:0b |
+|SMAC                   :  98:45:62:d6:a1:6c |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  44                |
+|ID                     :  29474             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  254               |
+|Protocol               :  6                 |
+|Checksum               :  51373             |
+|Source IP              :  192.168.90.252    |
+|Destination IP         :  192.168.100.174   |
+|Source Port            :  5500              |
+|Destination Port       :  58389             |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :30
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  90:6f:18:02:01:86 |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  13118             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  34453             |
+|Source IP              :  192.168.100.177   |
+|Destination IP         :  192.168.90.250    |
+|Source Port            :  62110             |
+|Destination Port       :  443               |
+Packet Already present. Counter incremented.
+
+
+
+Packet No    :31
+|DMAC                   :  bc:60:6b:2b:cf:88 |
+|SMAC                   :  ec:d6:8a:c4:db:0b |
+|IP TYPE                :  Ipv4              |
+|Version                :  4                 |
+|IHL (Header Length)    :  5                 |
+|TOS (Type of Service)  :  0                 |
+|Total Length           :  40                |
+|ID                     :  18234             |
+|Flags                  :  2                 |
+|TTL (Time to Live)     :  128               |
+|Protocol               :  6                 |
+|Checksum               :  29338             |
+|Source IP              :  192.168.100.174   |
+|Destination IP         :  192.168.90.252    |
+|Source Port            :  58389             |
+|Destination Port       :  5500              |
+Packet Already present. Counter incremented.
+
+
+This is the final Created list:
+---------------------------------------
+|Sourc IP         :  192.168.100.171  |
+|Distenation IP   :  192.168.90.250   |
+|counter          :  1                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.90.252   |
+|Distenation IP   :  192.168.100.174  |
+|counter          :  8                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.100.174  |
+|Distenation IP   :  192.168.90.252   |
+|counter          :  8                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.100.171  |
+|Distenation IP   :  192.168.90.252   |
+|counter          :  6                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.100.177  |
+|Distenation IP   :  172.217.160.142  |
+|counter          :  1                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.100.150  |
+|Distenation IP   :  239.255.255.250  |
+|counter          :  1                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.100.177  |
+|Distenation IP   :  142.250.193.138  |
+|counter          :  1                |
+---------------------------------------
+
+---------------------------------------
+|Sourc IP         :  192.168.100.177  |
+|Distenation IP   :  192.168.90.250   |
+|counter          :  3                |
+---------------------------------------
+
+Successfully freed Memory.
